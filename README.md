@@ -14,7 +14,7 @@
 
 ## 目录规划
 
-后续可以按下面的方向逐步扩展：
+这个知识库会按主题分区，每个大板块都有自己的入口页：
 
 ```text
 CS-Knowledge/
@@ -24,10 +24,15 @@ CS-Knowledge/
 ├── systems/            # 操作系统、计算机组成、编译原理
 ├── networks/           # 计算机网络
 ├── databases/          # 数据库
-├── ai/                 # 人工智能与机器学习
+├── machine-learning/   # 机器学习、Kaggle、数据分析
 ├── projects/           # 项目记录与复盘
 └── reflections/        # 学习总结、计划与反思
 ```
+
+## 导航
+
+- [机器学习](machine-learning/README.md)
+- [学习反思](reflections/0001-start.md)
 
 ## 记录方式
 
